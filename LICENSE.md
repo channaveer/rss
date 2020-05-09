@@ -1,4 +1,4 @@
-DatabaseBackup (Version 1.0)
+Simple RSS Generator (Version 1.0)
 -----------------------------------------
 
 The MIT License (MIT)
