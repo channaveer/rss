@@ -1,0 +1,32 @@
+{
+    "name": "channaveer/rss",
+    "description": "Simple RSS 2.0 Generator",
+    "keywords": ["rss", "rss2.0", "simple-rss", "rss-generator"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Channaveer Hakari",
+            "email": "channaveer888@gmail.com",
+            "homepage": "https://stackcoder.in/about-me",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Channaveer\\RSS\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "sort-packages": true
+    }
+}
